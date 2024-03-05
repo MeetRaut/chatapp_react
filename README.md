@@ -11,6 +11,6 @@ SOURCES:
 
 *To run Frontend and backend ports:*
 cd into their respective directories and run:
-Backend: ```npm run start``` 
-Frontend: ```npm run dev```
+Backend: ```bash npm run start``` 
+Frontend: ```bash npm run dev```
 
