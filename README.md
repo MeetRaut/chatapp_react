@@ -2,9 +2,12 @@
 Created real-time chat application using React
 
 SOURCES: 
-    Youtube:  ```https://youtu.be/Fzv-rgwcFKk?si=Qtyy-ahQ956snTnJ```
-    Website: ```https://chatengine.io/```
-    Blog: ```https://blog.chatengine.io/fullstack-chat/nodejs-reactjs```
+
+Youtube:  ```https://youtu.be/Fzv-rgwcFKk?si=Qtyy-ahQ956snTnJ```
+    
+Website: ```https://chatengine.io/```
+    
+Blog: ```https://blog.chatengine.io/fullstack-chat/nodejs-reactjs```
 
 *NPM packages*
 ```bash
